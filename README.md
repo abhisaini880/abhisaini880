@@ -46,5 +46,5 @@ I am a software developer, currently working with private organization as SDE-I.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisaini880&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisaini880&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisaini880&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
