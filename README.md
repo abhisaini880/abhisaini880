@@ -5,7 +5,7 @@
 ### Thanks! for visiting, You are visitor number :
 ![Visitor Count](https://profile-counter.glitch.me/{abhisaini880}/count.svg)
 <!-- intro -->
-### Glad to see you here
+### Glad to See You Here! 🚀
 <p>
 I am a software developer, currently working with private organization as SDE-I. Experienced in API design and development. Passionate about learning new technologies and also sharing the knowledge acquired over the time. Write weekly articles mainly about the new technology in market.
 </p>
@@ -28,7 +28,7 @@ I am a software developer, currently working with private organization as SDE-I.
 </p>
 
 <!-- Connect with me -->
-### Get in touch:
+### Let's Connect! 🌐
 [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/twitter.svg" />](https://twitter.com/abhi_decode)
 [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/linkedin.svg" />](https://www.linkedin.com/in/abhishek-saini-880)
 [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/instagram.svg" />](https://www.instagram.com/abhi.decode)
@@ -46,5 +46,5 @@ I am a software developer, currently working with private organization as SDE-I.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisaini880&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisaini880&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisaini880&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
