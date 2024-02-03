@@ -15,7 +15,7 @@ I am a software developer, currently working with private organization as SDE-I.
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/icons8-flask.svg" alt="flask" width="40" height="40"/>
 <img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/api.svg" alt="api" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
